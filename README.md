@@ -16,7 +16,7 @@ O **resistor** é um componente cuja função primária é limitar a passagem da
 
 ## Calculando valor resistor
 
-## Manualmente
+### Manualmente
 Para exemplificar o calculo manual do valor do resistor, vamos tomar como base o resistor abaixo:
 
 ![](referencias/resistor-exemplo.png)
