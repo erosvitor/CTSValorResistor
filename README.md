@@ -1,5 +1,5 @@
 ## Sobre
-Calcular o valor (Ohms) de um determinado resistor dada as cores das suas faixas.
+Programa para calcular o valor (Ohms) de um determinado resistor dada as cores das suas faixas.
 
 ## Versões
 O programa foi escrito nas seguintes linguagens de programação:
